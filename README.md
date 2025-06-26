@@ -20,3 +20,4 @@ MENTOR : NEELA SANTOSH KUMARC
 
 #Simulated output
 
+![Image](https://github.com/user-attachments/assets/710f47ff-c186-4b39-8064-fe5fa9efd011)
